@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/double-je/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Double Je](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/double-je/) |
+| **Get License** | [Get a Licensing Quote for Double Je](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/double-je/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'te vois danser dans les reflets de la nuit
+> Tes talons claquent, mon cœur accélère sans bruit
+> Une touche de gloss et tu contrôles tout Paris
+> Baby come close, t'es la seule dont j'ai envie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
