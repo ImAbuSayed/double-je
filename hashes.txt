@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Double Je
+
+This log tracks the cryptographic history and versioning for the song **Double Je** (double-je).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T20:29:04.633690 | `v1` | `b22810d636b791d36dd76ffde32bba4652d6504755e5fde448c8a5e8a5f00832` | `f2c4b02b2bc66f6ac63bf0928b67fbffbc29c89b8caf9bd2407052a465579a13` | `2026-06-24_double-je-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/double-je/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Double Je](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/double-je/) |
+| **Get License** | [Obtain a Music License for Double Je](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/double-je/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b22810d636b791d36dd76ffde32bba4652d6504755e5fde448c8a5e8a5f00832` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
